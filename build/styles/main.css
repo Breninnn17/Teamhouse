@@ -11,7 +11,7 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
-  background-image: linear-gradient(to right, #3396f1, #0808f8);
+  background-image: linear-gradient(to right, #696767, #000000);
   color: #ffffff;
 }
 li {
@@ -80,17 +80,17 @@ header .perfil {
 }
 .lista-de-projetos .itens-da-lista a {
   text-decoration: none;
-  background-color: #fafafa;
+  background-color: #535050;
   display: block;
   padding: 16px 20px;
   margin-bottom: 16px;
   text-align: center;
   font-weight: bold;
   border-radius: 30px;
-  border: 2px solid #fafafa;
+  border: 2px solid #535050;
   transition: all ease 0.8s;
 }
 .lista-de-projetos .itens-da-lista a:hover {
-  color: #fafafa;
-  background-color: #3396f1;
+  color: #535050;
+  background-color: #000000;
 }
